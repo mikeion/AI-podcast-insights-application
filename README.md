@@ -2,7 +2,9 @@
 
 ## Description
 
-The Podcast Summarization Dashboard is an application designed to assist busy podcast enthusiasts in discovering intriguing episodes efficiently. By generating a personalized weekly newsletter, users can gain summaries of each podcast episode released during the week. This newsletter includes details about the guest, main topics discussed, and key highlights from the episode.
+The [Podcast Summarization Dashboard](https://ai-podcast-insights.streamlit.app/) is an application designed to assist busy podcast enthusiasts in discovering intriguing episodes efficiently. By generating a personalized weekly newsletter, users can gain summaries of each podcast episode released during the week. This newsletter includes details about the guest, main topics discussed, and key highlights from the episode.
+
+You can find a link to the hosted application here: [https://ai-podcast-insights.streamlit.app/](https://ai-podcast-insights.streamlit.app/).
 
 This project was written as part of my role as a Teaching Assistant for the following CoRise course: [Building AI products with OpenAI](https://corise.com/go/building-ai-products-with-openai-MWKY3).
 
