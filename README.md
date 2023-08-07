@@ -42,10 +42,6 @@ The development of this application is divided into three main parts:
 2. **Backend Deployment:** Using a simple cloud provider, the information extraction functionality runs on-demand.
 3. **Front-end Deployment:** Allows users to experience the end-to-end functionality of the app.
 
-## Contributions
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues](link-to-your-issues-page) page.
-
 ## License
 
 This project is licensed under the MIT license. See LICENSE for details.
